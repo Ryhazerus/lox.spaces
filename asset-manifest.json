@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/lox.spaces/static/css/main.3142ae65.chunk.css",
-    "main.js": "/lox.spaces/static/js/main.626918f4.chunk.js",
-    "main.js.map": "/lox.spaces/static/js/main.626918f4.chunk.js.map",
+    "main.css": "/lox.spaces/static/css/main.775d9aa4.chunk.css",
+    "main.js": "/lox.spaces/static/js/main.d7c96ebe.chunk.js",
+    "main.js.map": "/lox.spaces/static/js/main.d7c96ebe.chunk.js.map",
     "runtime~main.js": "/lox.spaces/static/js/runtime~main.613bc991.js",
     "runtime~main.js.map": "/lox.spaces/static/js/runtime~main.613bc991.js.map",
-    "static/js/2.3310f33a.chunk.js": "/lox.spaces/static/js/2.3310f33a.chunk.js",
-    "static/js/2.3310f33a.chunk.js.map": "/lox.spaces/static/js/2.3310f33a.chunk.js.map",
+    "static/js/2.b41502e9.chunk.js": "/lox.spaces/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/lox.spaces/static/js/2.b41502e9.chunk.js.map",
     "index.html": "/lox.spaces/index.html",
-    "precache-manifest.1d7f808d6b65bf52b5af7fe4361a5637.js": "/lox.spaces/precache-manifest.1d7f808d6b65bf52b5af7fe4361a5637.js",
+    "precache-manifest.69d6bde21bc91602102b41cecc5028dc.js": "/lox.spaces/precache-manifest.69d6bde21bc91602102b41cecc5028dc.js",
     "service-worker.js": "/lox.spaces/service-worker.js",
-    "static/css/main.3142ae65.chunk.css.map": "/lox.spaces/static/css/main.3142ae65.chunk.css.map"
+    "static/css/main.775d9aa4.chunk.css.map": "/lox.spaces/static/css/main.775d9aa4.chunk.css.map",
+    "static/media/logo.png": "/lox.spaces/static/media/logo.210765ae.png"
   }
 }

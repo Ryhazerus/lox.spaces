@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/lox.spaces/precache-manifest.1d7f808d6b65bf52b5af7fe4361a5637.js"
+  "/lox.spaces/precache-manifest.69d6bde21bc91602102b41cecc5028dc.js"
 );
 
 self.addEventListener('message', (event) => {
