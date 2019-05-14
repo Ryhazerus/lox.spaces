@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lox.spaces/static/css/main.3142ae65.chunk.css",
+    "main.js": "/lox.spaces/static/js/main.626918f4.chunk.js",
+    "main.js.map": "/lox.spaces/static/js/main.626918f4.chunk.js.map",
+    "runtime~main.js": "/lox.spaces/static/js/runtime~main.613bc991.js",
+    "runtime~main.js.map": "/lox.spaces/static/js/runtime~main.613bc991.js.map",
+    "static/js/2.3310f33a.chunk.js": "/lox.spaces/static/js/2.3310f33a.chunk.js",
+    "static/js/2.3310f33a.chunk.js.map": "/lox.spaces/static/js/2.3310f33a.chunk.js.map",
+    "index.html": "/lox.spaces/index.html",
+    "precache-manifest.1d7f808d6b65bf52b5af7fe4361a5637.js": "/lox.spaces/precache-manifest.1d7f808d6b65bf52b5af7fe4361a5637.js",
+    "service-worker.js": "/lox.spaces/service-worker.js",
+    "static/css/main.3142ae65.chunk.css.map": "/lox.spaces/static/css/main.3142ae65.chunk.css.map"
+  }
+}
