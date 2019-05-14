@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/lox.spaces/static/css/main.6fe1292b.chunk.css",
-    "main.js": "/lox.spaces/static/js/main.70f2751e.chunk.js",
-    "main.js.map": "/lox.spaces/static/js/main.70f2751e.chunk.js.map",
+    "main.js": "/lox.spaces/static/js/main.69473175.chunk.js",
+    "main.js.map": "/lox.spaces/static/js/main.69473175.chunk.js.map",
     "runtime~main.js": "/lox.spaces/static/js/runtime~main.613bc991.js",
     "runtime~main.js.map": "/lox.spaces/static/js/runtime~main.613bc991.js.map",
     "static/js/2.b41502e9.chunk.js": "/lox.spaces/static/js/2.b41502e9.chunk.js",
     "static/js/2.b41502e9.chunk.js.map": "/lox.spaces/static/js/2.b41502e9.chunk.js.map",
     "index.html": "/lox.spaces/index.html",
-    "precache-manifest.6da1725f496554d39c693e4fd9312be5.js": "/lox.spaces/precache-manifest.6da1725f496554d39c693e4fd9312be5.js",
+    "precache-manifest.2ffede693741300b4bf7a802a7985c9c.js": "/lox.spaces/precache-manifest.2ffede693741300b4bf7a802a7985c9c.js",
     "service-worker.js": "/lox.spaces/service-worker.js",
     "static/css/main.6fe1292b.chunk.css.map": "/lox.spaces/static/css/main.6fe1292b.chunk.css.map",
     "static/media/logo.png": "/lox.spaces/static/media/logo.210765ae.png"
